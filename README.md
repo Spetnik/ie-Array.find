@@ -1,5 +1,5 @@
 # ie-Array.find
-Adds support for the Array.prototype.find() function to Internet Explorer
+Adds support for the Array.prototype.find() function in Internet Explorer
 
 In order to add the functionality of array.find() to internet explorer, add this to the top of your script:
 ```
